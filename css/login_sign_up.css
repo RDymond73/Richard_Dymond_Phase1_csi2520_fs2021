@@ -33,6 +33,14 @@ section {
 	color: #090b80;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+  }
+
 footer { 
 	text-align: center; 
     font: italic normal 1.0em georgia, sans-serif;
